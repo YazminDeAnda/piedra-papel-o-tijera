@@ -27,4 +27,4 @@ En este proyecto me enfoqué en construir el juego de piedra, papel o tijera. Co
 Aprender a utilizar javascrpt.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Juego piedra, papel o tijera]
+Aquí puedes visualizar mi proyecto terminado: [Juego piedra, papel o tijera] (https://eloquent-starlight-f96204.netlify.app/)
